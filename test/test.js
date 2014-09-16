@@ -1,7 +1,7 @@
 var expect = require('chai').expect;
 var lib = require('../index');
 
-describe('once saves whether the findTrueLove' + 
+describe('once saves whether the findTrueLove' +
   'function has been run', function() {
   it ('once', function(){
     var numberOfTimesItRan = 0;
